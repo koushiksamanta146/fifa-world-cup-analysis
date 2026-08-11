@@ -125,3 +125,4 @@ LinkedIn - https://www.linkedin.com/in/koushik-samanta-128340428?utm_source=shar
 
 - [View SQL Analysis][./sql/fifa_world_cup_analysis.sql](https://github.com/koushiksamanta146/fifa-world-cup-analysis/blob/main/fifa%20world%20cup%20analysis.sql)
 - [View Excel Analysis][./excel/fifa_world_cup_analysis.xlsx](https://github.com/koushiksamanta146/fifa-world-cup-analysis/blob/main/fifa_world_cup_analysis.xlsx)
+- [PowerPoint Presentation]https://github.com/koushiksamanta146/fifa-world-cup-analysis/blob/main/presentation/FIFA%20world%20cup%20analysis.pptx
