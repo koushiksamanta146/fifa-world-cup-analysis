@@ -122,6 +122,12 @@ Aspiring Data Analyst | Excel | SQL | Power BI | Python
 LinkedIn - https://www.linkedin.com/in/koushik-samanta-128340428?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ## 📂 Project Files
-
-- [View SQL Analysis]([sql/fifa world cup analysis.sql)](https://github.com/koushiksamanta146/fifa-world-cup-analysis/blob/d518ac628a6521202b6ea45382dc8272a663686b/fifa%20world%20cup%20analysis.sql)
-- [View Excel Analysis](excel/fifa_world_cup_analysis.xlsx)
+fifa-world-cup-analysis/
+│
+├── README.md
+│
+├── sql/
+│   └── fifa_world_cup_analysis.sql
+│
+└── excel/
+    └── fifa_world_cup_analysis.xlsx
