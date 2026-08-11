@@ -123,5 +123,5 @@ LinkedIn - https://www.linkedin.com/in/koushik-samanta-128340428?utm_source=shar
 
 ## 📂 Project Files
 
-- [View SQL Analysis](sql/fifa_world_cup_analysis.sql)
+- [View SQL Analysis](fifa world cup analysis.sql)
 - [View Excel Analysis](excel/fifa_world_cup_analysis.xlsx)
